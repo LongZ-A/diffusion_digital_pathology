@@ -1,0 +1,1 @@
+This is the repo connected to the paper **Generating synthetic data in digital pathology through diffusion models: a multifaceted approach to evaluation**: <https://www.medrxiv.org/content/10.1101/2023.11.21.23298808v1>
